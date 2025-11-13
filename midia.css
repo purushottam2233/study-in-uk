@@ -1,0 +1,86 @@
+
+
+/* Responsive styles */
+@media (max-width: 1060px) {
+    .navbarSupportedContent{
+        z-index: 0;
+        background: #04043F;
+
+    }
+    .scholershipform-contains-input{
+        display: block;
+        justify-content: space-between;
+        align-items: center;
+       /* margin-top: ; */
+    }
+
+    .scholershipform-contains-input-1 {
+       max-width: 40px;
+       display: block;
+       justify-content: space-between;
+       align-items: center;
+        
+        
+    }
+    .carousel-inner {
+        height: 63vh;
+      }
+
+  
+  
+}
+@media (max-width: 320px) {
+
+    .scholershipform-main{
+        margin-top: 0px;
+      }
+        .scholershipform-contains-input{
+            display: block;
+            justify-content: space-between;
+            align-items: center;
+           /* margin-top: ; */
+        }
+    
+        .scholershipform-contains-input-1 {
+           max-width: 40px;
+           display: block;
+           justify-content: space-between;
+           align-items: center;
+            
+            
+        }
+        .carousel-inner {
+            height: 50vh;
+          }
+
+}
+
+
+
+
+
+
+/* Optional for extra-small devices */
+@media (max-width: 576px) {
+  .scholershipform-main{
+    margin-top: 0px;
+  }
+    .scholershipform-contains-input{
+        display: block;
+        justify-content: space-between;
+        align-items: center;
+       /* margin-top: ; */
+    }
+
+    .scholershipform-contains-input-1 {
+       max-width: 40px;
+       display: block;
+       justify-content: space-between;
+       align-items: center;
+        
+        
+    }
+    .carousel-inner {
+        height: 63vh;
+      }
+}
